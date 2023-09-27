@@ -1,0 +1,29 @@
+country,region,happiness_score,gdp_per_capita,social_support,healthy_life_expectancy,freedom_to_make_life_choices,generosity,perceptions_of_corruption
+Turkiye,Middle East and North Africa,4.614,1.714,1.148,0.467,0.125,0.095,0.096
+Namibia,Sub-Saharan Africa,4.631,1.289,1.126,0.145,0.383,0.069,0.071
+Canada,North America and ANZ,6.961,1.881,1.484,0.541,0.656,0.218,0.364
+Taiwan Province of China,East Asia,6.535,1.89,1.372,0.492,0.562,0.067,0.178
+Ethiopia,Sub-Saharan Africa,4.091,0.793,1.114,0.25,0.451,0.283,0.101
+Montenegro,Central and Eastern Europe,5.722,1.537,1.385,0.424,0.563,0.17,0.061
+Vietnam,Southeast Asia,5.763,1.349,1.212,0.381,0.741,0.134,0.122
+Benin,Sub-Saharan Africa,4.374,0.924,0.242,0.124,0.481,0.114,0.253
+Zimbabwe,Sub-Saharan Africa,3.204,0.758,0.881,0.069,0.363,0.112,0.117
+Congo (Brazzaville),Sub-Saharan Africa,5.267,0.921,0.665,0.145,0.464,0.134,0.136
+South Africa,Sub-Saharan Africa,5.275,1.417,1.428,0.149,0.464,0.09,0.019
+Cyprus,Western Europe,6.13,1.824,1.224,0.58,0.455,0.104,0.05
+Russia,Central and Eastern Europe,5.661,1.68,1.383,0.366,0.449,0.12,0.091
+Jamaica,Latin America and Caribbean,5.703,1.305,1.329,0.411,0.587,0.079,0.039
+Spain,Western Europe,6.436,1.798,1.491,0.567,0.533,0.101,0.157
+Guatemala,Latin America and Caribbean,6.15,1.287,1.188,0.31,0.631,0.106,0.066
+Uruguay,Latin America and Caribbean,6.494,1.617,1.445,0.435,0.683,0.102,0.254
+Lithuania,Central and Eastern Europe,6.763,1.808,1.511,0.432,0.487,0.059,0.089
+Congo (Kinshasa),Sub-Saharan Africa,3.207,0.531,0.784,0.105,0.375,0.183,0.068
+South Korea,East Asia,5.951,1.853,1.188,0.603,0.446,0.112,0.163
+India,South Asia,4.036,1.159,0.674,0.252,0.685,0.175,0.111
+Netherlands,Western Europe,7.403,1.942,1.488,0.545,0.672,0.251,0.394
+Tunisia,Middle East and North Africa,4.497,1.333,0.981,0.422,0.259,0.022,0.016
+Malta,Western Europe,6.3,1.841,1.468,0.547,0.671,0.2,0.143
+Georgia,Central and Eastern Europe,5.109,1.477,0.947,0.366,0.539,0.0,0.201
+Iran,Middle East and North Africa,4.876,1.465,1.102,0.411,0.281,0.229,0.13
+Belgium,Western Europe,6.859,1.907,1.449,0.528,0.59,0.137,0.273
+United Kingdom,Western Europe,6.796,1.857,1.366,0.511,0.626,0.272,0.34
